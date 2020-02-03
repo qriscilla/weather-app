@@ -1,3 +1,5 @@
+# Hamza Mirza's React Tutorial: Weather Lookup App
+
 A tutorial I followed to familiarize myself with React.js
 
 Resources:
